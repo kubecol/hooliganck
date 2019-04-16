@@ -1,4 +1,5 @@
 # My Life
+---
 
 I was born and raised in Milwaukee, Wisconsin. I spent most of my summers going camping at Timber Trail in northern Wisconsin.
 When I was in highschool I decided to join the United States Marine Corps. I served five years as a Comm/Nav technician working
@@ -21,4 +22,3 @@ I'm currently reading a book about the 2008 finicial crises that occured.
 
 
 
-<https://kubecol.github.io/hooliganck/?fbclid=IwAR1sTgjHKA2ZUF1uZSnhWyJDwcjpaoKDh24pp7X3F_Z1qOGuS2KNirL5t7A>
