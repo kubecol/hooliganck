@@ -22,3 +22,4 @@ I'm still learning much more on the topic, and will be adding more information a
 ## Books Based Off of Financial Crisis
 + The Big Short [Buy Here](https://www.amazon.com/Big-Short-Inside-Doomsday-Machine/dp/0393072231/ref=sr_1_3?crid=2R4DJ8DVV7CF1&keywords=the+big+short&qid=1555414530&s=gateway&sprefix=the+big+short%2Caps%2C221&sr=8-3)
 + Too Big to Fail [Buy Here](https://www.amazon.com/Too-Big-Fail-Washington-System/dp/0670021253/ref=sr_1_2?crid=3I9DSKIISNLDO&keywords=too+big+to+fail&qid=1555414699&s=gateway&sprefix=too+big+to+fa%2Caps%2C375&sr=8-2)
++ After The Music Has Stopped [Buy Here](https://www.amazon.com/After-Music-Stopped-Financial-Response/dp/B00YFVEW7W?creativeASIN=B00YFVEW7W&linkCode=w61&imprToken=pkACfm2rSUVlNrqpEaqrjw&slotNum=7&ascsubtag=[]st[p]cjkublxwg003d0ayep8wy2l0m[i]zJZGfM[d]D[z]m[t]w[r]google.com&tag=thestrategistsite-20)
