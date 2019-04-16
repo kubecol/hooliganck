@@ -15,7 +15,7 @@ and working on a degree in accounting with a minor in finance.
 
 
 
-### My hobbies
+### My Hobbies
 ---
 I really enjoy watching sports. I find my self to be a die hard packers, brewers, badgers, and bucks fan. I would say my favorite 
 sport to watch is football, but I love going to Brewers games the most. I also enjoy finances and reading amount stock markets. I'm currently reading a book about the 2008 finicial crises that occured. 
