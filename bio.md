@@ -22,3 +22,13 @@ sport to watch is football, but I love going to Brewers games the most. I also e
 
 
 
+### Places Lived
++ Milwaukee
++ San Diego
++ Pensacola 
++ Virgina Beach
++ Beaufort
++ Iwakuni
+
+
+
