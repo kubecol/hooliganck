@@ -22,6 +22,20 @@ sport to watch is football, but I love going to Brewers games the most. I also e
 
 
 
+
+![ALt text](http://thedigitalnp.com/wordpress/wp-content/uploads/2011/11/trifecta.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
 ### Places Lived
 + Milwaukee
 + San Diego
