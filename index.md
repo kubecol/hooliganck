@@ -26,4 +26,4 @@ This page is designed to show you insight and a basis of my daily life and activ
 
 
 *What We Do In This Life Echos In Eternity*
-< *-Maximus Decimus Meridius*
+> *-Maximus Decimus Meridius*
