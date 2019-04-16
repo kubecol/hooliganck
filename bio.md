@@ -3,8 +3,7 @@
 
 I was born and raised in Milwaukee, Wisconsin. I spent most of my summers going camping at Timber Trail in northern Wisconsin.
 When I was in highschool I decided to join the United States Marine Corps. I served five years as a Comm/Nav technician working
-on F18 for VMFA-251. After 5 years I decided to get out and get a civilan contractor job on MCAS IWAKUNI. Now I am going to school
-and working on a degree in accounting with a minor in finance. 
+on F18 for VMFA-251. After 5 years I decided to get out and get a civilan contractor job on MCAS IWAKUNI. Now I am going to school and working on a degree in accounting with a minor in finance. 
 
 
 
@@ -23,7 +22,7 @@ sport to watch is football, but I love going to Brewers games the most. I also e
 
 
 
-![ALt text](http://thedigitalnp.com/wordpress/wp-content/uploads/2011/11/trifecta.jpg)
+![ALt text](http://thedigitalnp.com/wordpress/wp-content/uploads/2011/11/trifecta.jpg)   
 
 
 
