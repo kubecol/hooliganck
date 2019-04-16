@@ -33,5 +33,5 @@ This page is designed to show you insight and a basis of my daily life and activ
 
 
 ### Oh The Places You'll Go
-[Bio](bio)
-[Topic](topic)
++ [Bio](bio)
++ [Topic](topic)
