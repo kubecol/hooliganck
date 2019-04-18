@@ -27,3 +27,4 @@ I'm still learning much more on the topic, and will be adding more information a
 
 
 ## Oh The Places You'll Go
+ + [Bio](bio)
